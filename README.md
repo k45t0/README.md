@@ -1,10 +1,14 @@
 # Welcome to my GitHub!
 
-<p>🔒 Specialized in Information Security and Pentesting 🔍
+<p>🔒 Specialized in Information Security and Pentesting & Programming 🔍
 
 🌐 Proficient in CSS, HTML, PHP, MySQL, and Python 🐍
 
-📚 Always learning and sharing knowledge 🌟<p/>
+- Security findings involving entities such as Detran, PT, Cruzeiro, Botafogo, TJPE, Intelbras, Harvard, and other national/international governments
+- 1,000+ Defaces made
+- 150+ Dumped databases
+- Development of custom tools for automation, reconnaissance, and security testing
+- <p/>
 
 ## Technology
 
@@ -23,7 +27,7 @@
 
 <div>
     <a href="https://t.me/+lti92noms-hmY2Fh" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://github.com/k45t0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/kasto1231" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.youtube.com/@CrackingEmpire" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://x.com/wh015th3r00t" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
